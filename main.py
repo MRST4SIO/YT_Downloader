@@ -1,9 +1,8 @@
 import yt_dlp
 import os
 
-# url = input("Podaj link do filmu: ")
+url = input("Podaj link do filmu: ")
 
-url = "https://youtu.be/LXb3EKWsInQ?si=SO1YG4Gz7azmsUOs"
 
 info_options = {
     'quiet': True,
